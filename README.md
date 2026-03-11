@@ -1,18 +1,9 @@
 # 👋 Hello, I'm Pablo Henrique
 
-💻 Software Engineer focused on Backend Development
+💻 Software Engineer | Backend | Node.js | TypeScript | React
 
 I build scalable web applications using Node.js and TypeScript.  
-My main interests are backend architecture, asynchronous processing, queues and system performance.
-
----
-
-## 🚀 About Me
-
-- 3+ years developing real production systems
-- Experience building full web platforms (frontend + backend)
-- Focused on backend architecture and scalable APIs
-- Experience with queues, background jobs and caching strategies
+My main interests are backend architecture, asynchronous processing, job queues and system performance.
 
 ---
 
@@ -42,53 +33,6 @@ My main interests are backend architecture, asynchronous processing, queues and 
 
 ---
 
-## ⚙️ Backend Topics I Like Working With
-
-- REST API Architecture
-- Background Jobs
-- Queue Systems
-- Asynchronous Processing
-- Performance Optimization
-- Caching Strategies
-- Scalable Systems
-
----
-
-## 📦 Professional Experience
-
-Most of my professional work was developed in **private or organizational repositories**.
-
-Main project developed:
-
-### Lot Management Platform
-
-Complete web platform developed for a real estate company responsible for selling residential lots.
-
-System composed of two applications:
-
-**Public Platform**
-- Visualization of available lots
-- Payment simulations
-- Customer authentication and dashboard
-- Automated email communication
-
-**Administrative Platform**
-- Customer and contract management
-- Lot inventory management
-- Sales statistics dashboard
-- XLSX data import
-- Role and permission management
-
-Backend responsibilities included:
-
-- API development with Node.js and TypeScript
-- Background processing with BullMQ
-- Redis caching strategies
-- Large dataset pagination and search optimization
-- Data import pipeline for spreadsheets (.xlsx)
-
----
-
 ## 📚 Currently Studying
 
 - System design
@@ -99,5 +43,14 @@ Backend responsibilities included:
 
 ## 📫 Contact
 
-LinkedIn: https://linkedin.com/in/eupablomonteiro
-Email: pablo.monteirorgt19@gmail.com
+<p align="center">
+
+<a href="https://linkedin.com/in/eupablomonteiro">
+<img src="https://img.shields.io/badge/LinkedIn-Pablo%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pablo.monteirorgt19@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
